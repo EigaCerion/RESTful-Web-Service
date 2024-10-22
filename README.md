@@ -39,7 +39,7 @@ When creating or updating data, include the required fields in the request body.
 {
     "name": "Add your name in the body"
 }
-
+```
 📦 API Endpoints
 Authentication
 POST /api/auth/register - Register a new user
@@ -68,7 +68,7 @@ API Documentation
 Authorization Methods
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-```
+
 
 🤝 Contributing
 We welcome contributions! Please feel free to submit a pull request or open an issue to discuss potential improvements.
