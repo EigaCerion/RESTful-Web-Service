@@ -33,7 +33,7 @@ After sending a request, observe the response tab for:
 
 ### Step 3: Send New Body Data
 
-When creating or updating data, include the required fields in the request body. Here's an example of the body data format:
+When creating or updating data, include the required fields in the request body. Here's an example of the body data format Raw Json:
 
 ```json
 {
